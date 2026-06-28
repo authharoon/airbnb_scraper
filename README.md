@@ -30,8 +30,8 @@ A Python-based scraper for extracting Airbnb listing information.
 
 ## Files
 
-- `airbnb_scraper.py` – Main scraper
-- `Airbnb Sample.xlsx` – Sample extracted dataset
+- 📄 [airbnb_scraper.py](airbnb_scraper.py) – Main scraper
+- 📊 [Airbnb Sample.xlsx](Airbnb%20Sample.xlsx) – Sample extracted dataset
 
 ## Output
 
